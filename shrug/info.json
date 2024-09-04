@@ -1,0 +1,12 @@
+{
+    "name": "shrug",
+    "title": "Shrug",
+    "version": "0.0.1",
+    "description": "Adds /shrug , you can add a message after the command.",
+    "author": "Grifonice99",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1.0"
+    ]
+}
