@@ -1,8 +1,8 @@
 {
     "name": "shrug",
     "title": "Shrug",
-    "version": "0.0.1",
-    "description": "Adds /shrug , you can add a message after the command.",
+    "version": "0.0.2",
+    "description": "Add shrug command, /shurg *optional message*.",
     "author": "Grifonice99",
     "homepage": "",
     "factorio_version": "1.1",
