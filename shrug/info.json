@@ -1,12 +1,12 @@
 {
     "name": "shrug",
     "title": "Shrug",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Add shrug command, /shurg *optional message*.",
     "author": "Grifonice99",
     "homepage": "",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "dependencies": [
-        "base >= 1.1.0"
+        "base >= 2.0.0"
     ]
 }
