@@ -1,8 +1,8 @@
 {
     "name": "shrug",
     "title": "Shrug",
-    "version": "0.0.3",
-    "description": "Add shrug command, /shurg *optional message*.",
+    "version": "0.0.4",
+    "description": "Add shrug command, /shurg *optional message*. ¯\\_(ツ)_/¯",
     "author": "Grifonice99",
     "homepage": "",
     "factorio_version": "2.0",
