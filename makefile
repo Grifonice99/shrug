@@ -23,4 +23,4 @@ ft:
 	~/factorio/bin/x64/factorio --executable-path ~/factorio/bin/x64/factorio --mod-directory ./private/mods --load-game ~//saves/shrug.zip --graphics-quality very-low
 
 ft_multi:
-	~/factorio/bin/x64/factorio --executable-path ~/factorio/bin/x64/factorio --mod-directory ./private/mods --graphics-quality very-low
+	~/factorio2/bin/x64/factorio --executable-path ~/factorio2/bin/x64/factorio --mod-directory ./private/mods --graphics-quality very-low

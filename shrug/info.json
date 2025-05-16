@@ -1,7 +1,7 @@
 {
     "name": "shrug",
     "title": "Shrug",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Add shrug command, /shurg *optional message*. ¯\\_(ツ)_/¯",
     "author": "Grifonice99",
     "homepage": "",
