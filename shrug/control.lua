@@ -1,6 +1,3 @@
-local inspect = require("inspect")
-
-
 script.on_init(function()
     if not storage.shrug_count then
         storage.shrug_count = {}
